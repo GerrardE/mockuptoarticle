@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. I learned how to fiddle with my favorite webpage using google chrome web inspection tools.
+    I also learned some new html synthax like <sup>, the difference between <strong> and <bold>, and also how use the "alt" attribute for images
+    
+2. Yes, easy and interesting. I love the videos, crystal clear and high definition.
+3. Well, I have issues with internet connection, thats all.
+4. I learned to read code between the lines. some lines of code could look easy at first sight, but a better look shows how tricky they can be. I just have to be smarter!
